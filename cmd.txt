@@ -1,0 +1,4 @@
+git add .
+git commit -m "first version of project"
+git branch new
+git checkout new
